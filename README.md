@@ -9,3 +9,4 @@ Course from coursera
 - [Vector Operations: Scalar Multiplication, Sum and Dot Product of Vectors](C1_W3_Lab_1_vector_operations.ipynb)
 - [Matrix Multiplication](C1_W3_Lab_2_matrix_multiplication.ipynb)
 - [Week 3 Assignment](C1_W3_Assignment.ipynb)
+- [Week 4 Assignment](C1_W4_Assignment.ipynb)
