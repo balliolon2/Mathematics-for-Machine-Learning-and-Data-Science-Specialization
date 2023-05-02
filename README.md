@@ -10,3 +10,6 @@ Course from coursera
 - [Matrix Multiplication](C1_W3_Lab_2_matrix_multiplication.ipynb)
 - [Week 3 Assignment](C1_W3_Assignment.ipynb)
 - [Week 4 Assignment](C1_W4_Assignment.ipynb)
+
+## Calculus for Machine Learning and Data Science
+- [Week 1 Assignment](C2_W1_Assignment_Calculus.ipynb)
