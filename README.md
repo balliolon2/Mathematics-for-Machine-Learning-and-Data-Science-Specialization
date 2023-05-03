@@ -1,5 +1,5 @@
 # Mathematics-for-Machine-Learning-and-Data-Science-Specialization
-Course from coursera
+Lab from Course from coursera
 
 ## Linear Algebra for Machine Learning and Data Science
 - [Python Matrices and NumPy](C1_W1_Lab_1_introduction_to_numpy_arrays.ipynb)
