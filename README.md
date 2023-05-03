@@ -12,4 +12,5 @@ Course from coursera
 - [Week 4 Assignment](C1_W4_Assignment.ipynb)
 
 ## Calculus for Machine Learning and Data Science
+- [Differentiation](C2_W1_Lab_1_differentiation_in_python.ipynb)
 - [Week 1 Assignment](C2_W1_Assignment_Calculus.ipynb)
