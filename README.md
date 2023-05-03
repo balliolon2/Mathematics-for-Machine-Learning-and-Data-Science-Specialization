@@ -15,3 +15,4 @@ Lab from Course from coursera
 - [Differentiation](C2_W1_Lab_1_differentiation_in_python.ipynb)
 - [Week 1 Assignment](C2_W1_Assignment_Calculus.ipynb)
 - [Gradient Descent in one variable](C2_W2_Lab_1_Optimization_Using_Gradient_Descent_in_One_Variable.ipynb)
+- [Gradient Descent in two variables](C2_W2_Lab_2_Optimization_Using_Gradient_Descent_in_Two_Variables.ipynb)
