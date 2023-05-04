@@ -17,3 +17,4 @@ Lab from Course from coursera
 - [Gradient Descent in one variable](C2_W2_Lab_1_Optimization_Using_Gradient_Descent_in_One_Variable.ipynb)
 - [Gradient Descent in two variables](C2_W2_Lab_2_Optimization_Using_Gradient_Descent_in_Two_Variables.ipynb)
 - [Regression with Perceptron](C2_W3_Lab_1_Regression_with_Perceptron.ipynb)
+- [Classification with Perceptron](C2_W3_Lab_2_Classification_with_Perceptron.ipynb)
