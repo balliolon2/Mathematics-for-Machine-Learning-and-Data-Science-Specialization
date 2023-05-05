@@ -19,4 +19,4 @@ Lab from Course from coursera
 - [Regression with Perceptron](C2_W3_Lab_1_Regression_with_Perceptron.ipynb)
 - [Classification with Perceptron](C2_W3_Lab_2_Classification_with_Perceptron.ipynb)
 - [Optimization Using Newton's Method](C2_W3_Lab_3_Optimization_Using_Newtons_Method.ipynb)
-- [Week 2 Assignment](C2_W3_Assignment.ipynb)
+- [Week 3 Assignment](C2_W3_Assignment.ipynb)
